@@ -1,0 +1,33 @@
+﻿=============================================================================================================================================================================
+**FOR CLASS NegativeValueException**
+
+Dot Net Tutorials. n.d. Creating Custom Exception in C# Examples - Dot Net Tutorials. 
+[Online] Available at: <https://dotnettutorials.net/lesson/create-custom-exception-csharp/#:~:text=Create%20the%20object%20of%20a,class%20object%20by%20creating%20it.> 
+[Accessed 16 April 2021].
+
+=============================================================================================================================================================================
+
+**FOR CLASS ViewUser, Line 65 and 90**
+
+C# Essentials: Linq for Lists - Sorting, Filtering, and Aggregating Lists Easily - Tim Corey. 2017.  
+YouTube Video, added by IAmTimCorey,
+[Online] Available at: <https://www.youtube.com/watch?v=yClSNQdVD7g> 
+[Accessed 15 April 2021].
+
+=============================================================================================================================================================================
+
+**FOR CLASS HomeLoan, Line 61**
+
+O’Reilly Online Learning. 2021. C# Cookbook. 
+[online] Available at: <https://www.oreilly.com/library/view/c-cookbook/0596003390/ch01s09.html> 
+[Accessed 17 April 2021].
+
+=============================================================================================================================================================================
+
+**FOR THE PICTURES IN Resources FOLDER**
+
+Icons8.com. n.d. Free Icons, Clipart Illustrations, Photos, and Music. 
+[online] Available at: <https://icons8.com/> 
+[Accessed 16 April 2021].
+
+=============================================================================================================================================================================
